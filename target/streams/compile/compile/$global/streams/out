@@ -1,0 +1,18 @@
+[0m[[0m[31merror[0m] [0m[0m/home/cubic/Multi-View-Flowcentric-Aggregate/src/main/scala/smartx/multiview/flowcentric/Main.scala:78:30: value listFiles is not a member of scala.reflect.io.Directory[0m
+[0m[[0m[31merror[0m] [0m[0m      for (file <- directory.listFiles) {[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cubic/Multi-View-Flowcentric-Aggregate/src/main/scala/smartx/multiview/flowcentric/Main.scala:84:30: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Null[0m
+[0m[[0m[31merror[0m] [0m[0m              (line = reader.readLine) != null[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cubic/Multi-View-Flowcentric-Aggregate/src/main/scala/smartx/multiview/flowcentric/Main.scala:85:25: value contains is not a member of Null[0m
+[0m[[0m[31merror[0m] [0m[0m            }) if (line.contains(queryUser)) {[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cubic/Multi-View-Flowcentric-Aggregate/src/main/scala/smartx/multiview/flowcentric/Main.scala:85:34: not found: value queryUser[0m
+[0m[[0m[31merror[0m] [0m[0m            }) if (line.contains(queryUser)) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cubic/Multi-View-Flowcentric-Aggregate/src/main/scala/smartx/multiview/flowcentric/Main.scala:86:15: not found: value arr[0m
+[0m[[0m[31merror[0m] [0m[0m              arr.add(file)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
